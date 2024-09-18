@@ -1,0 +1,27 @@
+
+div {
+    align-items: center;
+    text-align: center;
+}
+
+#tulos {
+    color:red;
+    font-weight: bold;
+    font-size: 1.25em;
+    margin-bottom: 8px;
+    margin-top: -12px;
+}
+
+#refreshbtn, #valuebtn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: red;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+#refreshbtn:hover, #valuebtn:hover{
+    background-color: rgb(250, 151, 151);
+}
